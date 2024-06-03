@@ -17,7 +17,7 @@ Steps to install the application
 
 1. Clone the repo
    ```sh
-   git clone git@gitlab.com:subinvs/bedrock-calude3-chatbot.git
+   git clone git@github.com:subinvs11/bedrock-calude3-chatbot.git
    ```
 2. Move to root directory
    ```sh
